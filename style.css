@@ -1,0 +1,39 @@
+body{
+    font-family: 'Rosarivo', serif;
+    margin: 0;
+}
+.h-textS{
+    font-size: larger;
+    text-align: center;
+    font-weight: 800;
+}
+    
+.top{
+    background-image: url(food-web.jpg);
+    width: 1600px;
+    height: 800px;
+    text-align:center;
+    
+}
+.middle{
+    display: flex;
+}
+h2{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.about{
+     padding: 50px;
+     text-align: left;
+}
+.button{
+    display: flex;
+}
+.menu{
+    padding: 50px;
+}
+#f-food{
+    text-align: left;
+}
